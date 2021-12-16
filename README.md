@@ -1,2 +1,0 @@
-# FirstServlet
-Day1
